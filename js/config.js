@@ -31,9 +31,9 @@ export const MATCH_DAYS = [
 // sheet but not here still shows up, with the fallback image and no medals.
 // Medal times in ms: [Author, Gold, Silver, Bronze].
 export const MAPS = [
-  { name: 'trouser chocolate', author: 'a1', img: 'assets/map-trouser.webp', medals: [58057, 62000, 70000, 88000] },
-  { name: 'Free From the Shackles of Gravity', author: 'ski and trev', img: 'assets/map-gravity.webp', medals: [69661, 74000, 84000, 105000] },
-  { name: 'Auburn', author: 'daeh', img: 'assets/map-auburn.webp', medals: [64421, 71000, 80000, 100000] },
+  { name: 'trouser chocolate', author: 'A1', img: 'assets/map-trouser.webp', medals: [58057, 62000, 70000, 88000] },
+  { name: 'Free From the Shackles of Gravity', author: 'Ski & Trev', img: 'assets/map-gravity.webp', medals: [69661, 74000, 84000, 105000] },
+  { name: 'Auburn', author: 'Daeh', img: 'assets/map-auburn.webp', medals: [64421, 71000, 80000, 100000] },
 ];
 export const FALLBACK_MAP_IMG = 'assets/fallspeed-art.webp';
 
