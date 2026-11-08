@@ -1,0 +1,11 @@
+# Local-only files, not part of the published site
+README.md
+HANDOFF.md
+fallspeed-handoff.zip
+design/
+
+# Editor / OS clutter
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
