@@ -22,7 +22,8 @@ const DAY = 864e5;
 export const MATCH_DAYS = [
   { label: 'Match day 1', date: 'Sat, Nov 21', end: Date.UTC(2026, 10, 21) + DAY },
   { label: 'Match day 2', date: 'Sat, Nov 28', end: Date.UTC(2026, 10, 28) + DAY },
-  { label: 'Match day 3', date: 'Fri, Dec 4', end: Date.UTC(2026, 11, 4) + DAY },
+  { label: 'Match day 3', date: 'Sat, Dec 5', end: Date.UTC(2026, 11, 5) + DAY },
+  { label: 'Consolation KOs', date: 'Sat, Dec 12', end: Date.UTC(2026, 11, 12) + DAY },
 ];
 
 // ---- Maps ----
